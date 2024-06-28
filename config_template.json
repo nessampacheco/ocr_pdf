@@ -1,0 +1,7 @@
+{
+    "root_path": "YOUR_ROOT_PATH_HERE",
+    "poppler_path": "YOUR_POPPLER_PATH_HERE",
+    "tessdata_dir": "YOUR_TESSDATA_DIR_HERE",
+    "tesseract_cmd": "YOUR_TESSERACT_CMD_HERE",
+    "images_dir": "YOUR_IMAGES_DIR_HERE"
+}

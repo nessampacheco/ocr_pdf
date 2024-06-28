@@ -11,6 +11,6 @@ For this demonstration, I chose documents that are likely to be accessible to hi
 
 For these purposes, I selected a PDF with Good Quality Text: what offers a good quality text extraction. The example used The example used here is “Diario Politico” by Jose Victorino Lastarria[1].
 
-Note: "config_template.json" file should be edited with your own information and renamed to "config.json".
+**Note:** "config_template.json" file should be edited with your own information and renamed to "config.json".
 
 [1] Lastarria, José Victorino, 1817-1888. Diario político: 1849-1852 . Available in Memoria Chilena, National Library of Chile, https://www.memoriachilena.gob.cl/602/w3-article-55640.html . Accessed on 28/06/2024.

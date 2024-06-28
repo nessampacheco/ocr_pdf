@@ -1,5 +1,5 @@
 # ocr_pdf
-Digitizing Historical Documents with Simple OCR with Tesseract
+## Digitizing Historical Documents with Simple OCR with Tesseract
 
 The notebook in this repositoty shows a simple approach to extracting text from PDF files using Tesseract OCR. This process is called OCR, that stands for Optical Character Recognition.
 
